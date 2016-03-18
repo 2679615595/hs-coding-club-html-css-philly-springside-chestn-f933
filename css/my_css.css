@@ -1,1 +1,20 @@
 /*Write your custom CSS here!!!*/
+#page-top{
+  color: darkblue;
+}
+
+header{
+  background-color: darkblue;
+}
+
+#about{
+  background-color: darkblue;
+}
+
+#portfolio{
+  background-color: darkred;
+}
+
+#contact{
+  background-color: darkred;
+}
